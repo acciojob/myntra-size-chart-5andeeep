@@ -1,2 +1,9 @@
-
+th{
+    padding: 0px 50px 0px 0px;
+    font-size: small;
+}
+td{
+    padding: 0px 50px 0px 0px;
+    font-size: small;
+}
 /* Your CSS Code here. */
